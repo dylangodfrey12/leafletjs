@@ -1,0 +1,23 @@
+#mapid { 
+    height: 80vh;
+    margin: 0 auto;
+    width: 80vw;
+    z-index: 1000;
+    top: 20vh;
+}
+
+.video {
+    position: absolute;
+    z-index: -1;
+    width: 99vw;
+    height: auto;
+}
+body{
+    margin: 0;
+}
+
+.sponser {
+font-size: 4px;
+height: 10px;
+width: 30px
+}
